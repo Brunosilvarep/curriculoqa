@@ -1,0 +1,23 @@
+img{
+    border-radius: 100%;
+    max-width: 180px;
+    border: 6px solid rgb(145, 81, 81);
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    box-sizing: border-box;
+    
+}
+.container{
+    text-align: center;
+    margin: 15px auto;
+}
+hr{
+    border-color:#f5a5a5;
+    box-sizing:border-box;
+    width:100%;
+    background-color: #aaa;
+
+}
